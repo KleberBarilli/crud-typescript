@@ -1,0 +1,9 @@
+{
+  "test": {
+    "username": "postgres",
+    "password": "pgroot",
+    "database": "bd_api",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
